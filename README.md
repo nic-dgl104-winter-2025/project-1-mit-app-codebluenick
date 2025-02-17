@@ -24,6 +24,11 @@ A **mobile application** built with **MIT App Inventor** to help users **create*
   - [Insights \& Learnings](#insights--learnings)
   - [Future Improvements](#future-improvements)
   - [License](#license)
+  - [References](#references)
+  - [Official MIT App Inventor Documentation](#official-mit-app-inventor-documentation)
+  - [Video Tutorials \& Learning Resources](#video-tutorials--learning-resources)
+  - [Tools for Testing \& Debugging](#tools-for-testing--debugging)
+  - [OpenAI ChatGPT-4o](#openai-chatgpt-4o)
 
 ---
 
@@ -205,3 +210,61 @@ This project is released under the [MIT License](LICENSE). You’re free to use,
 
 **Thank you for exploring the _Social Event Announcement App_!**  
 Feel free to adapt and expand this project to meet your community or event-sharing needs. If you have any questions, open an issue or reach out with suggestions!
+
+
+## References
+
+## Official MIT App Inventor Documentation
+
+1. [**MIT App Inventor Homepage**](https://appinventor.mit.edu/)  
+   - The official website for MIT App Inventor.
+
+2. [**MIT App Inventor Documentation**](https://ai2.appinventor.mit.edu/reference/components/)  
+   - Detailed explanations for **all components**.
+
+3. [**TinyDB Documentation**](https://ai2.appinventor.mit.edu/reference/components/storage.html#TinyDB)  
+   - Learn how **TinyDB** works for local data storage.
+
+4. [**Camera Component Documentation**](https://ai2.appinventor.mit.edu/reference/components/media.html#Camera)  
+   - Guide on using the **Camera** component to take pictures.
+
+5. [**ListViewer Component Documentation**](https://ai2.appinventor.mit.edu/reference/components/userinterface.html#ListView)  
+   - Learn how to use **ListViewer** to display lists of items.
+
+6. [**Sharing Component Documentation**](https://ai2.appinventor.mit.edu/reference/components/connectivity.html#Sharing)  
+   - Guide on using the **Sharing** component to share text or images via external apps.
+
+---
+
+## Video Tutorials & Learning Resources
+
+1. [**MIT App Inventor YouTube Channel**](https://www.youtube.com/c/MITAppInventor)  
+   - Official video tutorials from MIT.
+
+2. [**App Inventor Beginner's Guide (YouTube Playlist)**](https://www.youtube.com/playlist?list=PLGnrwzGb5x1AnAqIR_WmMQzNofbC9_Fri)  
+   - Step-by-step tutorials for getting started with MIT App Inventor.
+
+3. [**How to Use TinyDB in MIT App Inventor**](https://www.youtube.com/watch?v=ZHJRxO3RtL0)  
+   - Video tutorial on using **TinyDB** for storing and retrieving data.
+
+4. [**How to Capture and Display Images with MIT App Inventor**](https://www.youtube.com/watch?v=-R2aMefcYUA)  
+   - Learn how to take and display images using the **Camera** component.
+
+5. [**Using ListView to Display Data in MIT App Inventor**](https://www.youtube.com/watch?v=2Zx_K_5vqhk)  
+   - Tutorial on displaying lists of items using **ListViewer**.
+
+---
+
+## Tools for Testing & Debugging
+
+- **MIT AI2 Companion App**  
+  - Download on [Google Play Store](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3)  
+  - Download on [Apple App Store](https://apps.apple.com/us/app/mit-ai2-companion/id1436339855)  
+
+- [MIT App Inventor Emulator](https://appinventor.mit.edu/explore/ai2/setup-emulator)  
+  - Instructions for setting up an **emulator** if you don’t have a physical Android device.
+
+---
+
+## OpenAI ChatGPT-4o
+https://chatgpt.com/share/67b2d7b7-a19c-800b-b0ba-dd303a9d443e
