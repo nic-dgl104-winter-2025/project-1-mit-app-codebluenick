@@ -156,14 +156,14 @@ Adds a short delay which helped me solve the issue with TinyDB not loading/stori
 ## Setup Instructions
 
 1. **Download or Clone the `.aia` File**  
-   - Obtain `SocialEventAnnouncementApp.aia` from this repository.
+   - Obtain `SocialProject.aia` from this repository.
 
 2. **Open MIT App Inventor**  
    - Go to [MIT App Inventor Website](https://appinventor.mit.edu/) and **log in**.
 
 3. **Import the Project**  
    - **Projects → Import project (.aia)**.  
-   - Select `SocialEventAnnouncementApp.aia`.
+   - Select `SocialProject.aia`.
 
 4. **Test on Device**  
    - **Connect → AI Companion** or use an emulator.  
